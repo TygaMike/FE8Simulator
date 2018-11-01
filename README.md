@@ -1,4 +1,21 @@
-FE8 Arena Simulator
-by Mike Price aka TygaMike
+# FE8 Arena Simulator
 
-Placeholder text.
+## Prerequisites 
+
+C++ compiler
+
+## Contributing
+
+* Shan Lalani
+
+## Authors 
+
+* Michael Price
+
+## License
+
+This project is licensed under the MIT License
+
+## Acknowledgements
+
+This project is a work in progress
